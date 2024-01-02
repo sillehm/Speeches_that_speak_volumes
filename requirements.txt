@@ -1,0 +1,9 @@
+pandas==1.5.3
+ipykernel==6.25.2
+numpy==1.26.0
+matplotlib==3.8.0
+sentence_transformers
+bertopic
+umap
+hdbscan
+accelerate

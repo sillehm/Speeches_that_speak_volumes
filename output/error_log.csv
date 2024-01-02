@@ -1,0 +1,11 @@
+Filename,Error Message
+ParlaMint-NL-en_2015-11-03-tweedekamer-6.txt,No columns to parse from file
+ParlaMint-PT-en_2019-04-04.txt,Error tokenizing data. C error: EOF inside string starting at row 174
+ParlaMint-DK-en_2016-04-01-20151-M70.txt,Error tokenizing data. C error: EOF inside string starting at row 357
+ParlaMint-SE-en_2016-09-21-prot-201617--6.txt,No columns to parse from file
+ParlaMint-NO-en_2016-03-02.txt,Error tokenizing data. C error: EOF inside string starting at row 174
+ParlaMint-BG-en_2016-04-20.txt,Error tokenizing data. C error: EOF inside string starting at row 230
+ParlaMint-CZ-en_2017-05-25-ps2013-057-07-003-228.txt,Error tokenizing data. C error: EOF inside string starting at row 13
+ParlaMint-BE-en_2020-04-21-55-commissie-ic152x.txt,Error tokenizing data. C error: EOF inside string starting at row 18
+ParlaMint-ES-CT-en_2016-10-06-2302.txt,Error tokenizing data. C error: EOF inside string starting at row 63
+ParlaMint-FR-en_2017-11-23-O1068.txt,Error tokenizing data. C error: EOF inside string starting at row 469

@@ -14,7 +14,7 @@ The dataset is a collection of parliamentary speeches from across Europe which c
 | data   | This folder is hidden due to the size of the dataset (but should be added to run the scripts)  
 | zip_data  | This is where the downloaded zipped data should be placed, also hidden due to size 
 | figures  | Visual representations of the data       
-| output  |  Tsv, txt, filtered and unfiltered dataframes are here, along with the error log 
+| output  |  Contains error log, stopword list and table of resulting topics. Tsv, txt, filtered and unfiltered dataframes will appear here after code is run, but are hidden due to size 
 | models  | The saved topic model is here    
 | src  | Py scripts 
 | Uutils  | Functions used for the various py scripts        
@@ -22,7 +22,7 @@ The dataset is a collection of parliamentary speeches from across Europe which c
 
 ## To run the scripts 
 
-As the dataset is too large to store in the repo, use the link above to access the data. Download the data and create a folder called  ```data``` within the Speeches_that_speak_volumes folder, along with the other folders in the repo. If it is the first time running the scripts, a couple lines should be unhastagged (they are marked, "UNCOMMENT FIRST TIME RUNNING") to unzip the data files. Then the code will run without making any changes. If the data is placed elsewhere, then the path should be updated in the code.
+As the dataset is too large to store in the repo, use the link above to access the data. Download the data and create a folder called  ```zip_data``` within the Speeches_that_speak_volumes folder, along with the other folders in the repo. If it is the first time running the scripts, a couple lines should be unhastagged (they are marked, "UNCOMMENT FIRST TIME RUNNING") to unzip the data files. Then the code will run without making any changes. If the downloaded data is placed elsewhere, then the path should be updated in the code.
 
 1. Clone the repository, either on ucloud or something like worker2.
 2. From the command line, at the /Speeches_that_speak_volumes/ folder level, run the following lines of code. 
@@ -46,6 +46,4 @@ python3 src/visualizations.py
 ```
 
 This has been tested on an ubuntu system on ucloud and therefore could have issues when run another way.
-
-# Discussion of results 
 

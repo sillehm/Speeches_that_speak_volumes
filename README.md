@@ -1,10 +1,10 @@
 # Speeches that speak volumes: Uncovering Climate Change Themes in European Parliament
 
-This repository is the product for the NLP exam project, fall 2023. 
+This repository is the product for the NLP exam project, Fall 2023, by authors Anja Feibel Meerwald and Sille Hasselbalch Markussen.  
 
 ## The data
 
-This dataset is a collection parliamentary speeches from across Europe. The dataset can be found and downloaded [here](https://www.clarin.si/repository/xmlui/handle/11356/1864).
+The dataset is a collection of parliamentary speeches from across Europe which can be found and downloaded [here](https://www.clarin.si/repository/xmlui/handle/11356/1864).
 
 
 # Repository 
